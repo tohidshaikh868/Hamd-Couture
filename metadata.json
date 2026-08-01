@@ -1,0 +1,8 @@
+{
+  "name": "Hamd Couture",
+  "description": "Premium luxury fashion website for Hamd Couture, featuring Arabian Fashion and Kids Wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
